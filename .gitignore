@@ -1,0 +1,5 @@
+_SUCCESS
+*.crc
+*.parquet
+.vscode
+.DS_Store
